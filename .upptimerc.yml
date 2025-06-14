@@ -7,16 +7,16 @@ sites:
     url: $SNA_DEV_SIGN_IN_PAGE
   - name: SNA Prod Sign-In page
     url: $SNA_PROD_SIGN_IN_PAGE
-  - name: Dev Portal Sign-In
+  - name: Dev api
     url: $DEV_PORTAL
-  - name: SNA Prod portal Sign-In
+  - name: SNA Prod api
     url: $SNA_PROD_PORTAL
   - name: Dev login
-    url: $SNA_DEV_SIGN_IN_PAGE
+    url: $DEV_LOGIN
     method: POST
     headers:
     - "Content-Type: application/json"
-    body: $DEV_LOGIN
+    body: $DEV_LOGIN_BODY
     expectedStatusCodes:
       - 401
 
