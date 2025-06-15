@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1411,
-    "timeDay": 1411,
-    "timeWeek": 1411,
-    "timeMonth": 1411,
-    "timeYear": 1411,
+    "time": 1966,
+    "timeDay": 1966,
+    "timeWeek": 1966,
+    "timeMonth": 1966,
+    "timeYear": 1966,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1806,
-    "timeDay": 1806,
-    "timeWeek": 1806,
-    "timeMonth": 1806,
-    "timeYear": 1806,
+    "time": 1580,
+    "timeDay": 1580,
+    "timeWeek": 1580,
+    "timeMonth": 1580,
+    "timeYear": 1580,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 389,
-    "timeWeek": 389,
-    "timeMonth": 389,
-    "timeYear": 389,
+    "time": 826,
+    "timeDay": 826,
+    "timeWeek": 826,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 913,
-    "timeWeek": 913,
-    "timeMonth": 913,
-    "timeYear": 913,
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-login",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 326,
-    "timeDay": 326,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-06-14": 13
+      "2025-06-15": 113,
+      "2025-06-14": 198
     }
   }
 ]
