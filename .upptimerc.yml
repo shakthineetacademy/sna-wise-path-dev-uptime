@@ -18,7 +18,7 @@ sites:
     - "Content-Type: application/json"
     body: $DEV_LOGIN_BODY
     expectedStatusCodes:
-      - 401
+      - 400
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
