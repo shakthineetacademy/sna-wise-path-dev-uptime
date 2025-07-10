@@ -40,10 +40,10 @@
     "url": "$DEV_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
@@ -51,16 +51,18 @@
     "timeWeek": 339,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "SNA Prod api",
     "url": "$SNA_PROD_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 715,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Dev login",
@@ -77,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-login",
     "status": "up",
-    "uptime": "86.98%",
+    "uptime": "87.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.98%",
-    "uptimeYear": "86.98%",
+    "uptimeMonth": "87.37%",
+    "uptimeYear": "87.37%",
     "time": 320,
     "timeDay": 483,
     "timeWeek": 358,
