@@ -4,9 +4,9 @@
     "url": "$SNA_DEV_SIGN_IN_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-dev-sign-in-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 2467,
     "timeMonth": 1823,
     "timeYear": 2001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-07": 0
+    }
   },
   {
     "name": "SNA Prod Sign-In page",
     "url": "$SNA_PROD_SIGN_IN_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-sign-in-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 2516,
     "timeMonth": 2131,
     "timeYear": 2262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-07": 0
+    }
   },
   {
     "name": "Dev api",
     "url": "$DEV_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -52,6 +56,7 @@
     "timeMonth": 392,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2025-07-23": 17,
       "2025-07-14": 19,
       "2025-07-10": 18
@@ -62,9 +67,9 @@
     "url": "$SNA_PROD_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +79,7 @@
     "timeMonth": 687,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2025-07-10": 18
     }
   },
@@ -82,18 +88,19 @@
     "url": "$DEV_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-login",
-    "status": "up",
-    "uptime": "96.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.12%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.10%",
+    "uptimeYear": "96.12%",
     "time": 335,
     "timeDay": 360,
     "timeWeek": 380,
     "timeMonth": 377,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2025-06-18": 209,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
