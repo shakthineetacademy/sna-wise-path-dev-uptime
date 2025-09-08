@@ -1,7 +1,7 @@
 url: $DEV_LOGIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-07T23:15:57.160Z
+status: up
+code: 400
+responseTime: 230
+lastUpdated: 2025-09-08T05:57:35.928Z
 startTime: 2025-06-14T20:42:15.322Z
 generator: Upptime <https://github.com/upptime/upptime>
