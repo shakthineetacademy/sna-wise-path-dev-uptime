@@ -1,7 +1,7 @@
 url: $SNA_PROD_SIGN_IN_PAGE
-status: up
-code: 200
-responseTime: 2636
-lastUpdated: 2025-11-16T23:17:33.894Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-11-17T10:49:38.586Z
 startTime: 2025-06-14T20:42:09.902Z
 generator: Upptime <https://github.com/upptime/upptime>
