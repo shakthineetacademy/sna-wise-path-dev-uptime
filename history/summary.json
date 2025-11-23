@@ -25,7 +25,7 @@
     "url": "$SNA_PROD_SIGN_IN_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-sign-in-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1906,
     "timeYear": 2203,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-09-08": 357,
       "2025-09-07": 697
     }
@@ -94,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-login",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.52%",
     "time": 328,
     "timeDay": 271,
     "timeWeek": 321,
