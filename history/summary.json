@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-dev-sign-in-page",
     "status": "down",
-    "uptime": "70.17%",
+    "uptime": "70.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.43%",
+    "uptimeYear": "68.36%",
     "time": 4692,
     "timeDay": 0,
     "timeWeek": 0,
@@ -78,7 +78,7 @@
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
-      "2026-07-06": 219,
+      "2026-07-06": 585,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -142,10 +142,10 @@
     "url": "$SNA_PROD_SIGN_IN_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-sign-in-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 2144,
@@ -156,7 +156,8 @@
     "dailyMinutesDown": {
       "2025-09-08": 357,
       "2025-09-07": 697,
-      "2026-03-02": 573
+      "2026-03-02": 573,
+      "2026-07-06": 1
     }
   },
   {
@@ -165,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-api",
     "status": "down",
-    "uptime": "69.92%",
+    "uptime": "69.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.17%",
+    "uptimeYear": "68.10%",
     "time": 6787,
     "timeDay": 35844,
     "timeWeek": 35866,
@@ -185,7 +186,7 @@
       "2025-11-23": 60,
       "2025-11-30": 15,
       "2026-01-06": 22,
-      "2026-07-06": 219,
+      "2026-07-06": 586,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -309,10 +310,10 @@
     "url": "$SNA_PROD_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sna-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 678,
@@ -326,7 +327,8 @@
       "2025-09-07": 697,
       "2025-11-23": 60,
       "2026-01-06": 22,
-      "2026-03-02": 571
+      "2026-03-02": 571,
+      "2026-07-06": 1
     }
   },
   {
@@ -334,9 +336,9 @@
     "url": "$DEV_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-login",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -349,7 +351,8 @@
       "2025-09-08": 358,
       "2025-09-07": 697,
       "2025-11-23": 59,
-      "2026-03-02": 570
+      "2026-03-02": 570,
+      "2026-07-06": 0
     }
   }
 ]
